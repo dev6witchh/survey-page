@@ -1,0 +1,30 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    background-image: linear-gradient(to bottom right,#00F490, #00BBC9);
+    color: white;
+
+}
+.container{
+    max-width: 760px;
+    background-color: rgba(33, 25, 68, 0.246);
+}
+
+h1 {
+    font-size: 36px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+label{
+    font-weight: bold;
+}
+.input-checkbox {
+    display: inline-block;
+    margin-right: 0.625rem;
+    min-height: 1.25rem;
+    min-width: 1.25rem;
+}
+
+p {
+    font-size: 1.125rempx;
+    font-family: Arial, Helvetica, sans-serif;
+}
